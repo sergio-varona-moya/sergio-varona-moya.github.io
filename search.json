@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Matemáticas con criterio",
+    "objectID": "conexiones/codigoHuevos.html",
+    "href": "conexiones/codigoHuevos.html",
+    "title": "¿Qué significa el código impreso en los huevos?",
     "section": "",
-    "text": "Un repositorio de actividades listas para imprimir inspiradas por los criterios de evaluación de la LOMLOE para Matemáticas de Secundaria."
+    "text": "Conexiones 6.1 6.2  Reconocer, usar y realizar conexiones entre bloques de saberes y procesos matemáticos en la resolución de problemas de la vida cotidiana.Instrumento de evaluación: PRUEBA ESCRITAEl etiquetado de huevos consiste en la estampación sobre la cáscara de los huevos de un código consistente en una combinación de letras y números, como el que ves en la imagen inferior. Dicha estampación, que la normativa europea exige que sea efectuada mediante una tinta roja alimentaria,​ es una norma que rige en muchos países. La norma europea a que se ha hecho referencia entró en vigor el 1 de enero de 2004 y desde el 1 de julio de 2005, también debe estamparse en cada huevo la fecha de caducidad. La etiqueta es obligatoria en todos los huevos con categoría A, que son los destinados a su venta directa al consumidor. Esta política forma parte de la certificación de “gallinas felices”, que incentiva el bienestar animal.\n\n\n\n\n¿Cuántas provincias diferentes pueden distinguirse con este código?\n\n\nEn cada provincia, ¿cuántos municipios diferentes pueden distinguirse con este código?\n\n\nEn cada municipio, ¿cuántas granjas diferentes pueden distinguirse con este código?\n\n\nEn cada provincia, ¿cuántas granjas diferentes pueden distinguirse con este código?\n\n\nEn total, ¿cuántas granjas diferentes pueden distinguirse con este código?\n\n\nEl primer dígito del código sirve para distinguir la forma de cría de las gallinas. Si 0 indica que las gallinas se crían libres y 3 indica que son criadas en jaulas, ¿qué significa ese dígito?"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matemáticas con criterio",
+    "section": "",
+    "text": "Un repositorio de actividades listas para imprimir inspiradas por los criterios de evaluación de la LOMLOE para Matemáticas de Secundaria."
   }
 ]
